@@ -3,7 +3,7 @@
 ## Clone Repo
 
 ```
-git clone https://github.com/onlinegurucool/generate-project-node.git
+https://github.com/lsmucassi/init-proj.git
 ```
 
 ## Install Dependncies 
@@ -20,7 +20,7 @@ npm link
 
 ## Generate or *starproject* new project
 
-
+:credits 
 > Learn more about how it works [here](https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309)
 
 # init-proj
