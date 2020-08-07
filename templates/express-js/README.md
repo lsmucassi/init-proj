@@ -14,3 +14,8 @@ install Express temporarily and not add it to the dependencies list:
 ```
 npm install express --no-save
 ```
+
+then run:
+```
+node app.js
+```
